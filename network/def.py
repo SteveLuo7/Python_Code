@@ -1,2 +1,0 @@
-def zxc():
-    print('sadffdsaf')
