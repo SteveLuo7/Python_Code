@@ -1,2 +1,2 @@
 def A():
-    print('luoshibin')
+    print('goodgoodstudy')
