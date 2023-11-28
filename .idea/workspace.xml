@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="TCP/UDP">
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm_08.py" afterDir="false" />
+    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="algorithm">
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python_Code/algorithm",
+    "last_opened_file_path": "D:/Python_Code/data_structure",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,19 +75,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python_Code\data_structure" />
       <recent name="D:\Python_Code\algorithm" />
       <recent name="D:\Python_Code\networkcode" />
       <recent name="D:\Python_Code\multipleThread" />
       <recent name="D:\Python_Code\database" />
-      <recent name="D:\Python_Code\pygame" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TsingHua/demo" />
       <recent name="$PROJECT_DIR$/qf" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.algorithm_08">
-    <configuration name="algorithm_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.data_structure_04">
+    <configuration name="data_structure_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +95,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/algorithm_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/data_structure_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="algorithm_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_structure_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +117,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/algorithm_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/data_structure_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="algorithm_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_structure_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,56 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/algorithm_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="algorithm_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/algorithm_07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="algorithm_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/algorithm_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/data_structure_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,13 +175,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.algorithm_08" />
-        <item itemvalue="Python.algorithm_07" />
-        <item itemvalue="Python.algorithm_06" />
-        <item itemvalue="Python.algorithm_05" />
-        <item itemvalue="Python.algorithm_04" />
+        <item itemvalue="Python.data_structure_04" />
+        <item itemvalue="Python.data_structure_03" />
+        <item itemvalue="Python.data_structure_02" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +288,8 @@
       <workItem from="1700702938250" duration="7475000" />
       <workItem from="1700735380148" duration="5705000" />
       <workItem from="1701070303072" duration="2438000" />
-      <workItem from="1701072871562" duration="7542000" />
+      <workItem from="1701072871562" duration="8063000" />
+      <workItem from="1701155137523" duration="9063000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1678891019152</created>
@@ -378,7 +377,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700987316231</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="algorithm">
+      <option name="closed" value="true" />
+      <created>1701081332066</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701081332066</updated>
+    </task>
+    <task id="LOCAL-00013" summary="algorithm">
+      <option name="closed" value="true" />
+      <created>1701081349405</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701081349405</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +423,8 @@
     <MESSAGE value="network coding 0.3" />
     <MESSAGE value="network coding 0.4" />
     <MESSAGE value="TCP/UDP" />
-    <option name="LAST_COMMIT_MESSAGE" value="TCP/UDP" />
+    <MESSAGE value="algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Code$func03.coverage" NAME="func03 Coverage Results" MODIFIED="1698047419902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
@@ -436,6 +452,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$mypy_26.coverage" NAME="mypy_26 Coverage Results" MODIFIED="1698405502735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$multipleThread_19.coverage" NAME="multipleThread_19 Coverage Results" MODIFIED="1700739111224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$chengfabiao.coverage" NAME="chengfabiao Coverage Results" MODIFIED="1679125080264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Code$data_structure_03.coverage" NAME="data_structure_03 Coverage Results" MODIFIED="1701165226840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$mysql_01.coverage" NAME="mysql_01 Coverage Results" MODIFIED="1700478003686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/Python_Code$numpy_06.coverage" NAME="numpy_06 Coverage Results" MODIFIED="1700558174956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
     <SUITE FILE_PATH="coverage/Python_Code$matplotlib_04.coverage" NAME="matplotlib_04 Coverage Results" MODIFIED="1700639619481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
@@ -453,6 +470,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_07.coverage" NAME="mulitipleThread_07 Coverage Results" MODIFIED="1700706188930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$func05.coverage" NAME="func05 Coverage Results" MODIFIED="1698048129710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_10.coverage" NAME="mulitipleThread_10 Coverage Results" MODIFIED="1700733200261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
+    <SUITE FILE_PATH="coverage/Python_Code$algorithm_08.coverage" NAME="algorithm_08 Coverage Results" MODIFIED="1701081223983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Python_Code$network_01.coverage" NAME="network_01 Coverage Results" MODIFIED="1700981041820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkcode" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_13.coverage" NAME="mulitipleThread_13 Coverage Results" MODIFIED="1700735966246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$tank06.coverage" NAME="tank06 Coverage Results" MODIFIED="1699954487609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
@@ -464,6 +482,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$myoo06.coverage" NAME="myoo06 Coverage Results" MODIFIED="1698225113751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$algorithm_03.coverage" NAME="algorithm_03 Coverage Results" MODIFIED="1701072608652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Python_Code$coroutine_07.coverage" NAME="coroutine_07 Coverage Results" MODIFIED="1700898211287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
+    <SUITE FILE_PATH="coverage/Python_Code$data_structure_01.coverage" NAME="data_structure_01 Coverage Results" MODIFIED="1701158508383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy09.coverage" NAME="mypy09 Coverage Results" MODIFIED="1698901202038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_28.coverage" NAME="mypy_28 Coverage Results" MODIFIED="1698407775241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$multipleThread_22.coverage" NAME="multipleThread_22 Coverage Results" MODIFIED="1700740394285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
@@ -500,6 +519,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$hello.coverage" NAME="hello Coverage Results" MODIFIED="1679121316298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$shuangfenzhi.coverage" NAME="shuangfenzhi Coverage Results" MODIFIED="1697869846216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
     <SUITE FILE_PATH="coverage/Python_Code$scores.coverage" NAME="scores Coverage Results" MODIFIED="1697871501195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
+    <SUITE FILE_PATH="coverage/Python_Code$data_structure_02.coverage" NAME="data_structure_02 Coverage Results" MODIFIED="1701159592591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$xy.coverage" NAME="xy Coverage Results" MODIFIED="1698407194070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$liebiaotuidao.coverage" NAME="liebiaotuidao Coverage Results" MODIFIED="1698903249893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/demo" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_22.coverage" NAME="mypy_22 Coverage Results" MODIFIED="1698400438286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
@@ -534,6 +554,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$mypy_20.coverage" NAME="mypy_20 Coverage Results" MODIFIED="1698398486641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$matplotlib_03.coverage" NAME="matplotlib_03 Coverage Results" MODIFIED="1700636579771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_06.coverage" NAME="mulitipleThread_06 Coverage Results" MODIFIED="1700705776969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
+    <SUITE FILE_PATH="coverage/Python_Code$data_structure_04.coverage" NAME="data_structure_04 Coverage Results" MODIFIED="1701165599586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$coroutine_04.coverage" NAME="coroutine_04 Coverage Results" MODIFIED="1700894359761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/Python_Code$network_02.coverage" NAME="network_02 Coverage Results" MODIFIED="1700983821579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkcode" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_02.coverage" NAME="mypy_02 Coverage Results" MODIFIED="1698209390041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
@@ -558,7 +579,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$network_04.coverage" NAME="network_04 Coverage Results" MODIFIED="1700984582869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkcode" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_10.coverage" NAME="mypy_10 Coverage Results" MODIFIED="1698230128325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$tank09.coverage" NAME="tank09 Coverage Results" MODIFIED="1699959323530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
-    <SUITE FILE_PATH="coverage/Python_Code$test.coverage" NAME="test Coverage Results" MODIFIED="1698653121069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/b" />
+    <SUITE FILE_PATH="coverage/Python_Code$test.coverage" NAME="test Coverage Results" MODIFIED="1701081454101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_17.coverage" NAME="mypy_17 Coverage Results" MODIFIED="1698390831146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$flight.coverage" NAME="flight Coverage Results" MODIFIED="1696743325493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$tank12.coverage" NAME="tank12 Coverage Results" MODIFIED="1700036031437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
@@ -583,6 +604,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$multipleThread_15.coverage" NAME="multipleThread_15 Coverage Results" MODIFIED="1700736247659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_24.coverage" NAME="mypy_24 Coverage Results" MODIFIED="1698404786756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$break.coverage" NAME="break Coverage Results" MODIFIED="1698903195903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/demo" />
+    <SUITE FILE_PATH="coverage/Python_Code$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1701159307372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy19.coverage" NAME="mypy19 Coverage Results" MODIFIED="1698148390534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
     <SUITE FILE_PATH="coverage/Python_Code$numpy_08.coverage" NAME="numpy_08 Coverage Results" MODIFIED="1700559355158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
     <SUITE FILE_PATH="coverage/Python_Code$squares.coverage" NAME="squares Coverage Results" MODIFIED="1679124358535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -606,6 +628,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$coroutine_12.coverage" NAME="coroutine_12 Coverage Results" MODIFIED="1700902323330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/Python_Code$coroutine_03.coverage" NAME="coroutine_03 Coverage Results" MODIFIED="1700894144483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_01.coverage" NAME="mulitipleThread_01 Coverage Results" MODIFIED="1700703429551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
+    <SUITE FILE_PATH="coverage/Python_Code$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1701158861176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_11.coverage" NAME="mypy_11 Coverage Results" MODIFIED="1698231056518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$sqlite3_07.coverage" NAME="sqlite3_07 Coverage Results" MODIFIED="1700470306302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/Python_Code$numpy_11.coverage" NAME="numpy_11 Coverage Results" MODIFIED="1700560906775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
