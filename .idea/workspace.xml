@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="data_structure——1">
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_function/advanced_function07.py" afterDir="false" />
+    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="algorithm">
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/data_structure_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,10 +62,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowRun.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python_Code/advanced_function",
+    "last_opened_file_path": "D:/Python_Code/data_structure",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,19 +75,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python_Code\advanced_function" />
       <recent name="D:\Python_Code\data_structure" />
       <recent name="D:\Python_Code\algorithm" />
       <recent name="D:\Python_Code\networkcode" />
       <recent name="D:\Python_Code\multipleThread" />
+      <recent name="D:\Python_Code\database" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TsingHua/demo" />
       <recent name="$PROJECT_DIR$/qf" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.advanced_function07">
-    <configuration name="advanced_function01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.data_structure_04">
+    <configuration name="data_structure_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +95,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/advanced_function01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/data_structure_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="advanced_function02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_structure_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +117,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/advanced_function02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/data_structure_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="advanced_function05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data_structure_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,56 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/advanced_function05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="advanced_function06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/advanced_function06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="advanced_function07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/advanced_function07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/data_structure_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,13 +175,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.advanced_function07" />
-        <item itemvalue="Python.advanced_function06" />
-        <item itemvalue="Python.advanced_function05" />
-        <item itemvalue="Python.advanced_function02" />
-        <item itemvalue="Python.advanced_function01" />
+        <item itemvalue="Python.data_structure_04" />
+        <item itemvalue="Python.data_structure_03" />
+        <item itemvalue="Python.data_structure_02" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,8 +289,7 @@
       <workItem from="1700735380148" duration="5705000" />
       <workItem from="1701070303072" duration="2438000" />
       <workItem from="1701072871562" duration="8063000" />
-      <workItem from="1701155137523" duration="9270000" />
-      <workItem from="1701240109433" duration="7557000" />
+      <workItem from="1701155137523" duration="9063000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1678891019152</created>
@@ -396,23 +393,7 @@
       <option name="project" value="LOCAL" />
       <updated>1701081349405</updated>
     </task>
-    <task id="LOCAL-00014" summary="data_structure">
-      <option name="closed" value="true" />
-      <created>1701165658444</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1701165658444</updated>
-    </task>
-    <task id="LOCAL-00015" summary="data_structure——1">
-      <option name="closed" value="true" />
-      <created>1701247621497</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1701247621497</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,9 +424,7 @@
     <MESSAGE value="network coding 0.4" />
     <MESSAGE value="TCP/UDP" />
     <MESSAGE value="algorithm" />
-    <MESSAGE value="data_structure" />
-    <MESSAGE value="data_structure——1" />
-    <option name="LAST_COMMIT_MESSAGE" value="data_structure——1" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Code$func03.coverage" NAME="func03 Coverage Results" MODIFIED="1698047419902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
@@ -456,7 +435,6 @@
     <SUITE FILE_PATH="coverage/Python_Code$mypy07.coverage" NAME="mypy07 Coverage Results" MODIFIED="1698229330335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy10.coverage" NAME="mypy10 Coverage Results" MODIFIED="1698055638858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_21.coverage" NAME="mypy_21 Coverage Results" MODIFIED="1698398930244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
-    <SUITE FILE_PATH="coverage/Python_Code$advanced_function06.coverage" NAME="advanced_function06 Coverage Results" MODIFIED="1701252277478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
     <SUITE FILE_PATH="coverage/Python_Code$tank08.coverage" NAME="tank08 Coverage Results" MODIFIED="1699955619990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
     <SUITE FILE_PATH="coverage/Python_Code$functions.coverage" NAME="functions Coverage Results" MODIFIED="1679124179461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$for_loop.coverage" NAME="for loop Coverage Results" MODIFIED="1697875981065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
@@ -523,7 +501,6 @@
     <SUITE FILE_PATH="coverage/Python_Code$tank15.coverage" NAME="tank15 Coverage Results" MODIFIED="1700038360863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
     <SUITE FILE_PATH="coverage/Python_Code$main.coverage" NAME="main Coverage Results" MODIFIED="1672112847662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1697780014581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
-    <SUITE FILE_PATH="coverage/Python_Code$data_structure_06_byChatGPT.coverage" NAME="data_structure_06_byChatGPT Coverage Results" MODIFIED="1701241430396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1679123929060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_12.coverage" NAME="mulitipleThread_12 Coverage Results" MODIFIED="1700735897805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$myoo05.coverage" NAME="myoo05 Coverage Results" MODIFIED="1698321415805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
@@ -536,7 +513,6 @@
     <SUITE FILE_PATH="coverage/Python_Code$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1679128278388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$multipleThread_23.coverage" NAME="multipleThread_23 Coverage Results" MODIFIED="1700892550120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1698918144244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
-    <SUITE FILE_PATH="coverage/Python_Code$data_structure_05.coverage" NAME="data_structure_05 Coverage Results" MODIFIED="1701241460602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_13.coverage" NAME="mypy_13 Coverage Results" MODIFIED="1698321769060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$multipleThread_17.coverage" NAME="multipleThread_17 Coverage Results" MODIFIED="1700737769306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_16.coverage" NAME="mypy_16 Coverage Results" MODIFIED="1698388576340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
@@ -578,7 +554,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$mypy_20.coverage" NAME="mypy_20 Coverage Results" MODIFIED="1698398486641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$matplotlib_03.coverage" NAME="matplotlib_03 Coverage Results" MODIFIED="1700636579771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_06.coverage" NAME="mulitipleThread_06 Coverage Results" MODIFIED="1700705776969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
-    <SUITE FILE_PATH="coverage/Python_Code$data_structure_04.coverage" NAME="data_structure_04 Coverage Results" MODIFIED="1701240619736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
+    <SUITE FILE_PATH="coverage/Python_Code$data_structure_04.coverage" NAME="data_structure_04 Coverage Results" MODIFIED="1701165599586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$coroutine_04.coverage" NAME="coroutine_04 Coverage Results" MODIFIED="1700894359761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/Python_Code$network_02.coverage" NAME="network_02 Coverage Results" MODIFIED="1700983821579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkcode" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_02.coverage" NAME="mypy_02 Coverage Results" MODIFIED="1698209390041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
@@ -596,20 +572,17 @@
     <SUITE FILE_PATH="coverage/Python_Code$mypy_19.coverage" NAME="mypy_19 Coverage Results" MODIFIED="1698398324494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$lists.coverage" NAME="lists Coverage Results" MODIFIED="1679123350252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$tank04.coverage" NAME="tank04 Coverage Results" MODIFIED="1699343266363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
-    <SUITE FILE_PATH="coverage/Python_Code$advanced_function07.coverage" NAME="advanced_function07 Coverage Results" MODIFIED="1701252773470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_25.coverage" NAME="mypy_25 Coverage Results" MODIFIED="1698405357844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$matplotlib_08.coverage" NAME="matplotlib_08 Coverage Results" MODIFIED="1700643849569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
     <SUITE FILE_PATH="coverage/Python_Code$algorithm_05.coverage" NAME="algorithm_05 Coverage Results" MODIFIED="1701077010569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_04.coverage" NAME="mulitipleThread_04 Coverage Results" MODIFIED="1700705095016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$network_04.coverage" NAME="network_04 Coverage Results" MODIFIED="1700984582869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkcode" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_10.coverage" NAME="mypy_10 Coverage Results" MODIFIED="1698230128325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
-    <SUITE FILE_PATH="coverage/Python_Code$advanced_function05.coverage" NAME="advanced_function05 Coverage Results" MODIFIED="1701252024036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
     <SUITE FILE_PATH="coverage/Python_Code$tank09.coverage" NAME="tank09 Coverage Results" MODIFIED="1699959323530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
     <SUITE FILE_PATH="coverage/Python_Code$test.coverage" NAME="test Coverage Results" MODIFIED="1701081454101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy_17.coverage" NAME="mypy_17 Coverage Results" MODIFIED="1698390831146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro_obj" />
     <SUITE FILE_PATH="coverage/Python_Code$flight.coverage" NAME="flight Coverage Results" MODIFIED="1696743325493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$tank12.coverage" NAME="tank12 Coverage Results" MODIFIED="1700036031437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
-    <SUITE FILE_PATH="coverage/Python_Code$advanced_function02.coverage" NAME="advanced_function02 Coverage Results" MODIFIED="1701250094518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_09.coverage" NAME="mulitipleThread_09 Coverage Results" MODIFIED="1700707632292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$zip.coverage" NAME="zip Coverage Results" MODIFIED="1698042282408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
     <SUITE FILE_PATH="coverage/Python_Code$func02.coverage" NAME="func02 Coverage Results" MODIFIED="1698046536451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
@@ -662,8 +635,6 @@
     <SUITE FILE_PATH="coverage/Python_Code$mysql_05.coverage" NAME="mysql_05 Coverage Results" MODIFIED="1700479528943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
     <SUITE FILE_PATH="coverage/Python_Code$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1673764130661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Code$duofenzhijiegou.coverage" NAME="duofenzhijiegou Coverage Results" MODIFIED="1697870355502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
-    <SUITE FILE_PATH="coverage/Python_Code$data_structure_07.coverage" NAME="data_structure_07 Coverage Results" MODIFIED="1701241598602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/Python_Code$mypy03.coverage" NAME="mypy03 Coverage Results" MODIFIED="1698907422192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
-    <SUITE FILE_PATH="coverage/Python_Code$advanced_function01.coverage" NAME="advanced_function01 Coverage Results" MODIFIED="1701249746064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
   </component>
 </project>
