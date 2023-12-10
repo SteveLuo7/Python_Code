@@ -4,23 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="voicetransfer">
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/artificial_neural_networks_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/artificial_neural_networks_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artificial_neural_networks/tensorflow_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="tensorflow2.5">
+      <change afterPath="$PROJECT_DIR$/Django/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/.idea/Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/Django/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,23 +66,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python_Code/artificial_neural_networks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Python_Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_Code\artificial_neural_networks" />
@@ -99,7 +96,7 @@
       <recent name="$PROJECT_DIR$/qf" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_12">
+  <component name="RunManager" selected="Python.regularexpression_02">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tensorflow_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regularexpression_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificial_neural_networks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regularExpression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificial_neural_networks/tensorflow_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regularExpression/regularexpression_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regularexpression_02" />
         <item itemvalue="Python.tensorflow_12" />
         <item itemvalue="Python.tensorflow_11" />
         <item itemvalue="Python.tensorflow_10" />
         <item itemvalue="Python.tensorflow_09" />
-        <item itemvalue="Python.tensorflow_08" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +308,9 @@
       <workItem from="1701845550143" duration="8962000" />
       <workItem from="1701928439283" duration="3974000" />
       <workItem from="1701933261122" duration="11217000" />
-      <workItem from="1702104680506" duration="2568000" />
+      <workItem from="1702104680506" duration="2923000" />
+      <workItem from="1702190535157" duration="1854000" />
+      <workItem from="1702196668011" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1678891019152</created>
@@ -487,7 +486,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701854984140</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="tensorflow">
+      <option name="closed" value="true" />
+      <created>1702107562902</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1702107562902</updated>
+    </task>
+    <task id="LOCAL-00024" summary="tensorflow2.5">
+      <option name="closed" value="true" />
+      <created>1702107583111</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702107583111</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +556,9 @@
     <MESSAGE value="pillow" />
     <MESSAGE value="opencv" />
     <MESSAGE value="voicetransfer" />
-    <option name="LAST_COMMIT_MESSAGE" value="voicetransfer" />
+    <MESSAGE value="tensorflow" />
+    <MESSAGE value="tensorflow2.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="tensorflow2.5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Code$func03.coverage" NAME="func03 Coverage Results" MODIFIED="1698047419902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua/mypro" />
@@ -655,8 +672,8 @@
     <SUITE FILE_PATH="coverage/Python_Code$advanced_function09.coverage" NAME="advanced_function09 Coverage Results" MODIFIED="1701332951551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
     <SUITE FILE_PATH="coverage/Python_Code$regularexpression_05.coverage" NAME="regularexpression_05 Coverage Results" MODIFIED="1701503797155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
     <SUITE FILE_PATH="coverage/Python_Code$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1679128278388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Code$regularexpression_02.coverage" NAME="regularexpression_02 Coverage Results" MODIFIED="1701338571818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
     <SUITE FILE_PATH="coverage/Python_Code$tensorflow_02.coverage" NAME="tensorflow_02 Coverage Results" MODIFIED="1701939977046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial_neural_networks" />
+    <SUITE FILE_PATH="coverage/Python_Code$regularexpression_02.coverage" NAME="regularexpression_02 Coverage Results" MODIFIED="1702196680274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
     <SUITE FILE_PATH="coverage/Python_Code$pillow_16.coverage" NAME="pillow_16 Coverage Results" MODIFIED="1701674318664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pillow" />
     <SUITE FILE_PATH="coverage/Python_Code$pillow_19.coverage" NAME="pillow_19 Coverage Results" MODIFIED="1701675677666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pillow" />
     <SUITE FILE_PATH="coverage/Python_Code$tensorflow_08.coverage" NAME="tensorflow_08 Coverage Results" MODIFIED="1701953046399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial_neural_networks" />
@@ -750,6 +767,7 @@
     <SUITE FILE_PATH="coverage/Python_Code$tank12.coverage" NAME="tank12 Coverage Results" MODIFIED="1700036031437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygame" />
     <SUITE FILE_PATH="coverage/Python_Code$pillow_09.coverage" NAME="pillow_09 Coverage Results" MODIFIED="1701670794070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pillow" />
     <SUITE FILE_PATH="coverage/Python_Code$advanced_function02.coverage" NAME="advanced_function02 Coverage Results" MODIFIED="1701250094518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_function" />
+    <SUITE FILE_PATH="coverage/Python_Code$tensorflow_12.coverage" NAME="tensorflow_12 Coverage Results" MODIFIED="1702107429115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/artificial_neural_networks" />
     <SUITE FILE_PATH="coverage/Python_Code$mulitipleThread_09.coverage" NAME="mulitipleThread_09 Coverage Results" MODIFIED="1700707632292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multipleThread" />
     <SUITE FILE_PATH="coverage/Python_Code$pillow_15.coverage" NAME="pillow_15 Coverage Results" MODIFIED="1701673390500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pillow" />
     <SUITE FILE_PATH="coverage/Python_Code$zip.coverage" NAME="zip Coverage Results" MODIFIED="1698042282408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TsingHua" />
