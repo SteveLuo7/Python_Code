@@ -22,5 +22,7 @@ from Django import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('hello/', views.hello_view),
+    path('login/', views.login_view),
+    path('tologin/', views.tologin_view),
 
 ]
