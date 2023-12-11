@@ -9,8 +9,8 @@ def login_view(request):
     return render(request,'login.html')
 
 def tologin_view(request):
-    uname = request.POST.get('uname')
-    pwd = request.POST.get('pwd')
+    uname = request.GET.get('uname')
+    pwd = request.GET.get('pwd')
     if uname == 'zhangsan' and pwd == '123':
         return HttpResponse('Login Success')
     return HttpResponse('Login Failed')

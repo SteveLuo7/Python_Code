@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c006a22-c525-4cde-b97d-6b1030c4dbef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../djangoTest/.idea/djangoTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/test4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/stu/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/test5mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/Django/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Django/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/templates/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ZOYEXkzG7CNdCEPAbBb5bkC2ep" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Python_Code/multipleThread",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c006a22-c525-4cde-b97d-6b1030c4dbef" name="Changes" comment="" />
+      <created>1702294481994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702294481994</updated>
+      <workItem from="1702294483041" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

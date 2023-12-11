@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>show</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" width="500px">
+        <tr>
+            <th>Number</th>
+            <th>Name</th>
+            <th>Password</th>
+        </tr>
+
+        {% for stu in stuList %}
+            <tr>
+                <th>{{ stu.id }}</th>
+                <th>{{ stu.sname }}</th>
+                <th>{{ stu.spwd }}</th>
+            </tr>
+        {% endfor %}
+        
+    </table>
+</body>
+</html>

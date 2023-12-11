@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>register</title>
+</head>
+<body>
+    <form action="/register/" method="post">
+        {% csrf_token %}
+        <p>UserName: <input type="text" name="sname"/> </p>
+        <p>PassWord: <input type="password" name="spwd"/> </p>
+        <p>&emsp;&emsp;<input type="submit" value="Register"/> </p>
+    </form>
+</body>
+</html>

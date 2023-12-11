@@ -3,9 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
+    <script>
+        function test(){
+            location.href='/tologin/?uname=zhansan&pwd=123';
+        }
+    </script>
 </head>
 <body>
-    <form action="/tologin/" method="post"/>
+    <form action="/tologin/" method="get"/>
         <p>
             UserName: <input type="text" name="uname"/>
         </p>
@@ -15,7 +20,10 @@
          <p>
             <input type="submit" value="Submit">
         </p>
+    </form>
 
+    <a href="/tologin/?uname=zhangsan&pwd=123">SuperTransfer</a><br/>
 
+    <input type="button" value="test" onclick="test()">
 </body>
 </html>
