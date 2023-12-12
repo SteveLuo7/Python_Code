@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>register</title>
+</head>
+<body>
+    <form action="/student/addStu/" method="post">
+        {% csrf_token %}
+        <p>
+            Name: <input type="text" name="sname">
+        </p>
+        <p>
+            Class: <select name="cname">
+                <option value="B101H5Class">B101H5Class</option>
+                <option value="B102UIClass">B102UIClass</option>
+                <option value="B103PythonClass">B103PythonClass</option>
+        </select>
+        </p>
+        <p>
+            Course:
+            <input type="checkbox" name="coursename" value="HTML5"/>HTML5
+            <input type="checkbox" name="coursename" value="CSS3"/>CSS3
+            <input type="checkbox" name="coursename" value="JAVA"/>JAVA
+            <input type="checkbox" name="coursename" value="PYTHON"/>PYTHON
+        </p>
+        <p>
+            &emsp;&emsp; <input type="submit" value="Register">
+        </p>
+    </form>
+</body>
+</html>

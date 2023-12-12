@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            margin: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        .movie {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .movie-card {
+            max-width: 200px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: white;
+            transition: transform 0.3s;
+        }
+        .movie-card:hover {
+            transform: scale(1.05);
+        }
+        .movie-image {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+        }
+        .movie-details {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Movie Website</h1>
+    </header>
+
+    <section>
+        <h2>Featured Movies</h2>
+        <div class="movie">
+            <div class="movie-card">
+                <img src="movie1.jpg" alt="Movie 1" class="movie-image">
+                <div class="movie-details">
+                    <h3>Movie 1</h3>
+                    <p>Genre: Action</p>
+                </div>
+            </div>
+            <div class="movie-card">
+                <img src="movie2.jpg" alt="Movie 2" class="movie-image">
+                <div class="movie-details">
+                    <h3>Movie 2</h3>
+                    <p>Genre: Drama</p>
+                </div>
+            </div>
+            <!-- Add more featured movies here... -->
+        </div>
+    </section>
+
+    <section>
+        <h2>All Movies</h2>
+        <div class="movie">
+            <div class="movie-card">
+                <img src="movie3.jpg" alt="Movie 3" class="movie-image">
+                <div class="movie-details">
+                    <h3>Movie 3</h3>
+                    <p>Genre: Comedy</p>
+                </div>
+            </div>
+            <div class="movie-card">
+                <img src="movie4.jpg" alt="Movie 4" class="movie-image">
+                <div class="movie-details">
+                    <h3>Movie 4</h3>
+                    <p>Genre: Sci-Fi</p>
+                </div>
+            </div>
+            <!-- Add more movies here... -->
+             <div class="movie-card">
+                {% for movie in movieList %}
+                	<img src="{{ movie.image }}" alt="{{ movie.name}}" class="{{ movie.account }}">
+                <div class="{{ movie.download_url }}">
+                    <h3>Movie 4</h3>
+                    <p>Genre: Sci-Fi</p>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
