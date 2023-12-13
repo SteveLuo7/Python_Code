@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>upload</title>
+</head>
+<body>
+    <form action="/toupload/" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <p>Name<input type="text" name="sname"></p>
+        <p>pic<input type="file" name="photo"></p>
+        <p>&emsp;&emsp;<input type="submit" name="Register"></p>
+
+    </form>
+</body>
+</html>

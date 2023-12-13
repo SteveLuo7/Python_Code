@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>show</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" width="500px">
+        <tr>
+            <th>NO.</th>
+            <th>Name</th>
+            <th>Pic</th>
+            <th>ACTION</th>
+        </tr>
+
+        {% for student in students %}
+            <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ student.name }}</td>
+                <td><img src="/media/{{ student.photo }}"></td>
+                <td><a href="/download1/?photo={{ student.photo }}">Download</a> </td>
+                <td><a href="/download2/">Download</a> </td>
+
+            </tr>
+        {% endfor %}
+
+    </table>
+</body>
+</html>

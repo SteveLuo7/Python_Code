@@ -26,6 +26,20 @@ class Student(models.Model):
     cls = models.ForeignKey(Clazz,on_delete=models.CASCADE)
     course = models.ManyToManyField(Course)
 
+    from django.db.transaction import atomic
+
+    # @atomic
+    # def save(
+    #     self, force_insert=False, force_update=False, using=None, update_fields=None
+    # ):
+    #     try:
+    #         self.cls = Clazz.objects.get(cname=self.cls.cname)
+    #     except Clazz.DoesNotExist:
+    #         self.cls = Clazz.objects.create(self)
+    #     1/0
+    #     return models.Model.save(self)
+    #
+
     class Meta:
         db_table = 't_student'
     def __unicode__(self):
