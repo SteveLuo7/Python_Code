@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+    <ol>
+        <li>{{ uname }}</li>
+        <li>{{ l.1 }}</li>
+        <li>{{ d.k2 }}</li>
+        <li>{{ now.year }}</li>
+        <li>{{ now.month }}</li>
+        <li>{{ now.day }}</li>
+        <li>{{ uname.upper }}</li>
+    </ol>
+
+{% for li in l reversed%}
+	{{ forloop.counter0 }}-{{ li }} <br/>
+{% endfor %}
+
+
+</body>
+</html>

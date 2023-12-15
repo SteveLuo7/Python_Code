@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>login</title>
+</head>
+<body>
+    <form action="/stu/login/" method="post">
+        {% csrf_token %}
+        <p><label for="uname">USERNAME:</label><input type="text" id="uname" name="uname"> </p>
+        <p><label for="pwd">PASSWORD:</label><input type="password" id="pwd" name="pwd"> </p>
+        <p><input type="submit" value="Login"> </p>
+    </form>
+</body>
+</html>
