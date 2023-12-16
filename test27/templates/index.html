@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <script type="text/javascript" src="http://mat1.gtimg.com/libs/jquery/1.9.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <input type="button" onclick="getAjax();" value="GETAjax"/>
+    <input type="button" onclick="postAjax();" value="POSTAjax"/>
+    <input type="button" onclick="customAjax();" value="CUSTOMAjax"/>
+    {% csrf_token %}
+    <script>
+        function getAjax(){
+            $.get('/stu/get/','uname=zhangsan',function (result){
+                alert(result.flag);
+            });
+        }
+
+        alert('happy holiday');
+
+        function postAjax(){
+            var csrf = $('input[name="csrfmiddlewaretoken"]').val();
+            $.post('/stu/post/',{'uname':'lisi','csrfmiddlewaretoken':csrf},function (result){
+                alert(result.flag);
+            });
+
+            alert('merry Xmas')
+        }
+
+        function customAjax(){
+            var csrf = $('input[name="csrfmiddlewaretoken"]').val();
+            $.ajax({
+                url:'/stu/post/',
+                data:{'uname':'wangwu','csrfmiddlewaretoken':csrf},
+                type:'POST',
+                async:true,
+                success:function (result){
+                    alert(result.flag);
+                }
+
+            });
+            alert('LUOSHIBIN_Ajax')
+        }
+    </script>
+</body>
+</html>

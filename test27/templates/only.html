@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>only</title>
+    <style>
+        .redSpan {
+            color: red;
+        }
+        .greenSpan {
+            color: greenyellow;
+        }
+    </style>
+    <script type="text/javascript" src="http://mat1.gtimg.com/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+<body>
+    <input type="text" id="sname" onblur="checkUname(this.value);" /><span id="snameSpan"></span>
+
+    <script>
+        function checkUname(txt) {
+            if (txt.length == 0) {
+                $('#snameSpan').html('USERNAME IS NULL');
+                $('#snameSpan').css('color', 'red');
+            } else if (reg.test(txt)) {
+                $.get('/stu/getInfo/', { 'sname': txt }, function (result) {
+                    var flag = result.flag;
+                    if (flag) {
+                        $('#snameSpan').html('USERNAME HAS BEEN USED');
+                        $('#snameSpan').css('color', 'red');
+                    } else {
+                        $('#snameSpan').html('USERNAME FORMAT IS CORRECT');
+                        $('#snameSpan').css('color', 'greenyellow');  // Change color for correct format
+                    }
+                });
+            } else {
+                $('#snameSpan').html('WRONG FORMAT');
+                $('#snameSpan').css('color', 'red');
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+{% extends 'base.html' %}
+{% block title %}
+	MainPage
+{% endblock %}
+
+{% block main %}
+    <div id="main">
+        {% for post in postList %}
+            <article class="article article-type-post">
+                        <div class="articale-meta">
+                            <a class="article-date">
+                                <time>{{ post.created|date:'Y-m-d H:i:s'}}</time>
+                            </a>
+                            <div class="article-category">
+                                <a class="article-category-link" href="#" target="_blank">{{ post.category.cname }}</a>
+                            </div>
+                        </div>
+                        <div class="article-inner">
+                            <header class="article-header">
+                                <h1 itemprop="name">
+                                    <a class="article-title" href="#" target="_blank">{{ post.title }}</a>
+                                </h1>
+                            </header>
+                            <div class="article-entry" itemprop="articleBody">
+                                <h2>前言</h2>
+                                <hr>
+                                {{ post.desc }}
+
+
+                                <p class="article-more-link">
+                                    <a href="/post/2" target="_blank">阅读全文</a>
+                                </p>
+                            </div>
+                            <footer class="srticle-footer">
+                                <a data-url="SAVE ARTICLE URL" class="article-share-link"></a>
+                                <ul class="article-tag-list">
+
+                                    {% for tag in post.tag.all %}
+                                        <li class="article-tag-list-item">
+                                            <a class="article-tag-list-link" href="#">{{ tag.tname }}</a>
+                                        </li>
+                                    {% endfor %}
+
+
+                                </ul>
+                            </footer>
+                        </div>
+                    </article>
+        {% endfor %}
+
+
+        <nav id="page-nav">
+            {% if postList.has_previous %}
+                <a class="extend prev" rel="next" href="/page/{{ postList.previous_page_number }}">Prev</a>
+            	
+            {% endif %}
+
+            <span class="page-number current">1</span>
+            <a class="page-number" href="/page/2">2</a>
+
+            {% if postList.has_next %}
+                <a class="extend next" rel="next" href="/page/{{ postList.next_page_number }}">Next</a>
+
+            {% endif %} 
+        
+        
+        
+        </nav>
+    </div>
+{% endblock %}
