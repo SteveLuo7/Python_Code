@@ -2,44 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d29f4a-95ec-4f7f-8f08-f9558b3206f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../djangoTest/.idea/djangoTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/multipleThread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multipleThread/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/test4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/stu/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test4/templates/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/test5mysql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test5mysql/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Django/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Django/Django/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/Django/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Django/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/.idea/Flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawl/.idea/crawl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/flaskProjectdemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/static/images/HK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/static/js/my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/blog_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/child1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/child2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/control.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskProjectdemo1/templates/static.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ZOYLmMBjtZ2jDQe5Od5eAJzYlB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -63,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python_Code/database",
+    "last_opened_file_path": "D:/Python_Code/test6_1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -77,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702294538380</updated>
       <workItem from="1702294539439" duration="101000" />
+      <workItem from="1703491818306" duration="26000" />
     </task>
     <servers />
   </component>

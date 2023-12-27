@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="tensorflow2.5">
-      <change afterPath="$PROJECT_DIR$/Django/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/.idea/Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/Django/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/Django/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/Django/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/Django/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/Django/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="603e54dd-740e-4708-8833-cd3cabe1d4bf" name="Changes" comment="tensorflow2.5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,6 +296,7 @@
       <workItem from="1702104680506" duration="2923000" />
       <workItem from="1702190535157" duration="1854000" />
       <workItem from="1702196668011" duration="86000" />
+      <workItem from="1703314740559" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1678891019152</created>
