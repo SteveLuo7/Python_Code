@@ -1,0 +1,27 @@
+{% extends 'users/base.html' %}
+
+
+{% block head %}
+	<title>输入邮箱地址找回密码</title>
+{% endblock head %}
+
+
+{% block content %}
+
+
+    <div class="box">
+        <h1 class="is-uppercase has-text-centered has-text-weight-bold">LUOSHIBIN
+            <br><span class="tag">请输入注册邮箱</span>
+        </h1>
+
+    <hr class="dropdown-divider">
+        <form action="" method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            {{ form.errors }}
+            <a class="is-pulled-right" href="{% url 'users:forget_pwd' %}">忘记密码</a>
+            <div class="is-clearfix"></div>
+            <input type="submit" style="margin-top: 1em;" class="button is-link is-fullwidth" value="发 送">
+        </form>
+    </div>
+{% endblock content%}
